@@ -1,4 +1,5 @@
 # The Journal 📓
+<a href="https://itsoliviasparks.github.io/the-journal/">Live Site</a>
 
 ## About
 An exercise in taking a given design deck and translating it into html & css
