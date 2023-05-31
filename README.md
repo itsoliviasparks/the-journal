@@ -1,5 +1,5 @@
 # The Journal 📓
-<a href="https://itsoliviasparks.github.io/the-journal/">Live Site</a>
+<a href="https://itsoliviasparks.github.io/the-journal/">🔗 Live Site</a>
 
 ## About
 My first coding project ever! Yay!
